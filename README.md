@@ -1,7 +1,5 @@
 # VASI-Voice-Activated-Subsystem-Interface
 
-# VASI – Voice Activated Subsystem Interface
-
 An AI-powered voice assistant designed to provide intelligent human-computer interaction through voice commands, natural language processing, and desktop automation.
 
 ---
